@@ -4,6 +4,8 @@ public class Main {
             System.out.println(i);
         }
         System.out.println("clone succeeded!2");
+
+        Develop.run();
     }
 }
 
